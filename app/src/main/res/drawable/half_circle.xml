@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/blue_500"/> <!-- Warna biru -->
+    <size android:width="100dp" android:height="50dp"/> <!-- Ukuran setengah lingkaran -->
+    <corners android:bottomLeftRadius="50dp" android:bottomRightRadius="50dp"/> <!-- Membuat sudut bawah berbentuk lingkaran -->
+</shape>

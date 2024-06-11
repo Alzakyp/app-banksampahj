@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BankSampah</string>
+
+    <!-- heading -->
+    <string name="heading_one">Jual Sampah Mudah</string>
+    <string name="heading_two">Poin Hadiah</string>
+    <string name="heading_three">Laporan Lingkungan</string>
+    <string name="heading_fourth">Komunitas Peduli</string>
+
+    <!-- description -->
+    <string name="desc_one">Dapatkan uang dari sampah yang Anda kumpulkan dengan proses jual yang cepat dan transparan.</string>
+    <string name="desc_two">Kumpulkan poin setiap kali Anda berkontribusi, dan tukarkan dengan berbagai hadiah menarik.</string>
+    <string name="desc_three">Pantau dampak positif yang Anda buat melalui laporan lingkungan yang terperinci.</string>
+    <string name="desc_fourth">Bergabunglah dengan jaringan komunitas yang peduli lingkungan dan dapatkan motivasi dari sesama pencinta alam.</string>
+
+    <string name="deskripsi_jenis">Sampah merupakan hasil produksi manusia yang tidak akan pernah luput dari kehidupan sehari-hari. Lalu, jenis-jenis sampah apa yang biasanya kita hasilkan? Yuk, kenali di sini.\n\nSampah jika dibiarkan saja akan mengganggu kebersihan lingkungan secara umum. Sampah dapat dibedakan menjadi dua macam, yaitu:</string>
+    <string name="anorganik"><b>1. Sampah Padat (Anorganik)</b>\n\nSampah anorganik adalah sampah yang terdiri atas bahan-bahan anorganik. Contoh bahan-bahan anorganik adalah bahan logam, plastik, kaca, karet, dan kaleng. Sifat sampah anorganik adalah tahan lama dan sukar membusuk.\n\nSampah ini tidak mudah diuraikan oleh mikroorganisme tanah. Apabila dibuang sembarangan, sampah anorganik dapat menimbulkan pencemaran tanah.</string>
+    <string name="organik"><b>2. Sampah Basah (Organik)</b>\n\nSampah organik adalah sampah yang terdiri atas bahan-bahan organik. Sifat sampah organik adalah tidak tahan lama dan cepat membusuk. Biasanya sampah jenis ini berasal dari makhluk hidup. Contohnya adalah sayur-sayuran, buah-buah yang membusuk, sisa nasi, daun, dan sebagainya.\n\nSampah organik mudah diuraikan mikroorganisme tanah. Hanya saja jenis sampah akan menimbulkan bau kurang sedap jika tidak dikelola dengan baik.</string>
+    <string-array name="kategori_sampah">
+        <item>Plastik</item>
+        <item>Logam</item>
+        <item>Kertas</item>
+        <item>Karet</item>
+    </string-array>
+    <string-array name="harga_perkilo">
+        <item>1500</item>
+        <item>3000</item>
+        <item>800</item>
+        <item>1000</item>
+    </string-array>
+</resources>
